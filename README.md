@@ -78,9 +78,9 @@ airport-runway-scheduling-simulation/
 ### Step 1: Build
 ```bash
 make
-### Step 2: Run
+Step 2: Run
 make run
-###Step 3: Clean
+Step 3: Clean
 make clean
 
 
